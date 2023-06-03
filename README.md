@@ -14,7 +14,7 @@ Follow the instructions below to get the project up and running on your local ma
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/Shakeelkhuhro/Tailwind-CSS.git
 2. Navigate to the project directory:
     cd your-project
 3. Install the dependencies:
