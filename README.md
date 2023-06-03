@@ -25,14 +25,14 @@ Follow the instructions below to get the project up and running on your local ma
 2. Open your browser and visit http://localhost:3000 to view the app.
 
 # Customization
-    You can customize the styling by modifying the Tailwind CSS utility classes in the React components. Refer to the official Tailwind CSS documentation for a comprehensive list of available classes and how to use them: https://tailwindcss.com/docs.
+You can customize the styling by modifying the Tailwind CSS utility classes in the React components. Refer to the official Tailwind CSS documentation for a comprehensive list of available classes and how to use them: https://tailwindcss.com/docs.
 
-    The main component where you can make changes is App.js located in the src directory. Modify the JSX code in that file to add your desired components and styling.
+The main component where you can make changes is App.js located in the src directory. Modify the JSX code in that file to add your desired components and styling.
 
 # Deployment
-    To create a production-ready build, use the following command:
-        npm run build
-    This will create an optimized build of your app in the build directory. You can deploy this build to a hosting service of your choice.
+To create a production-ready build, use the following command:
+    npm run build
+This will create an optimized build of your app in the build directory. You can deploy this build to a hosting service of your choice.
 
 # Contributing
-    Contributions are welcome! If you find any issues or have suggestions, please open an issue or submit a pull request.
+Contributions are welcome! If you find any issues or have suggestions, please open an issue or submit a pull request.
